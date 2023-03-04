@@ -1,0 +1,628 @@
+[
+    {
+        "name": "England",
+        "matches": [
+            {
+                "vs": "South Africa",
+                "SelfScore": "311/8",
+                "OppScore": "(39.5/50 ov, T:312) 207",
+                "Result": "England won by 104 runs"
+            },
+            {
+                "vs": "Pakistan",
+                "SelfScore": "(50 ov, T:349) 334/9",
+                "OppScore": "348/8",
+                "Result": "Pakistan won by 14 runs"
+            },
+            {
+                "vs": "Bangladesh",
+                "SelfScore": "386/6",
+                "OppScore": "(48.5/50 ov, T:387) 280",
+                "Result": "England won by 106 runs"
+            },
+            {
+                "vs": "West Indies",
+                "SelfScore": "(33.1/50 ov, T:213) 213/2",
+                "OppScore": "212",
+                "Result": "England won by 8 wickets (with 101 balls remaining)"
+            },
+            {
+                "vs": "Afghanistan",
+                "SelfScore": "397/6",
+                "OppScore": "(50 ov, T:398) 247/8",
+                "Result": "England won by 150 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "SelfScore": "(47/50 ov, T:233) 212",
+                "OppScore": "232/9",
+                "Result": "Sri Lanka won by 20 runs"
+            },
+            {
+                "vs": "Australia",
+                "SelfScore": "(44.4/50 ov, T:286) 221",
+                "OppScore": "285/7",
+                "Result": "Australia won by 64 runs"
+            },
+            {
+                "vs": "India",
+                "SelfScore": "337/7",
+                "OppScore": "(50 ov, T:338) 306/5",
+                "Result": "England won by 31 runs"
+            },
+            {
+                "vs": "New Zealand",
+                "SelfScore": "305/8",
+                "OppScore": "(45/50 ov, T:306) 186",
+                "Result": "England won by 119 runs"
+            },
+            {
+                "vs": "Australia",
+                "SelfScore": "(32.1/50 ov, T:224) 226/2",
+                "OppScore": "223",
+                "Result": "England won by 8 wickets (with 107 balls remaining)"
+            },
+            {
+                "vs": "New Zealand",
+                "SelfScore": "(50 ov, T:242) 241",
+                "OppScore": "241/8",
+                "Result": "Match tied"
+            }
+        ]
+    },
+    {
+        "name": "South Africa",
+        "matches": [
+            {
+                "vs": "England",
+                "SelfScore": "(39.5/50 ov, T:312) 207",
+                "OppScore": "311/8",
+                "Result": "England won by 104 runs"
+            },
+            {
+                "vs": "Bangladesh",
+                "SelfScore": "(50 ov, T:331) 309/8",
+                "OppScore": "330/6",
+                "Result": "Bangladesh won by 21 runs"
+            },
+            {
+                "vs": "India",
+                "SelfScore": "227/9",
+                "OppScore": "(47.3/50 ov, T:228) 230/4",
+                "Result": "India won by 6 wickets (with 15 balls remaining)"
+            },
+            {
+                "vs": "West Indies",
+                "SelfScore": "(7.3/50 ov) 29/2",
+                "OppScore": "",
+                "Result": "No result"
+            },
+            {
+                "vs": "Afghanistan",
+                "SelfScore": "(28.4/48 ov, T:127) 131/1",
+                "OppScore": "(34.1/48 ov) 125",
+                "Result": "South Africa won by 9 wickets (with 116 balls remaining) (D/L method)"
+            },
+            {
+                "vs": "New Zealand",
+                "SelfScore": "(49/49 ov) 241/6",
+                "OppScore": "(48.3/49 ov, T:242) 245/6",
+                "Result": "New Zealand won by 4 wickets (with 3 balls remaining)"
+            },
+            {
+                "vs": "Pakistan",
+                "SelfScore": "(50 ov, T:309) 259/9",
+                "OppScore": "308/7",
+                "Result": "Pakistan won by 49 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "SelfScore": "(37.2/50 ov, T:204) 206/1",
+                "OppScore": "203",
+                "Result": "South Africa won by 9 wickets (with 76 balls remaining)"
+            },
+            {
+                "vs": "Australia",
+                "SelfScore": "325/6",
+                "OppScore": "(49.5/50 ov, T:326) 315",
+                "Result": "South Africa won by 10 runs"
+            }
+        ]
+    },
+    {
+        "name": "Pakistan",
+        "matches": [
+            {
+                "vs": "West Indies",
+                "SelfScore": "105",
+                "OppScore": "(13.4/50 ov, T:106) 108/3",
+                "Result": "West Indies won by 7 wickets (with 218 balls remaining)"
+            },
+            {
+                "vs": "England",
+                "SelfScore": "348/8",
+                "OppScore": "(50 ov, T:349) 334/9",
+                "Result": "Pakistan won by 14 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "SelfScore": "",
+                "OppScore": "",
+                "Result": "Match abandoned without a ball bowled"
+            },
+            {
+                "vs": "Australia",
+                "SelfScore": "(45.4/50 ov, T:308) 266",
+                "OppScore": "307",
+                "Result": "Australia won by 41 runs"
+            },
+            {
+                "vs": "India",
+                "SelfScore": "(40/40 ov, T:302) 212/6",
+                "OppScore": "336/5",
+                "Result": "India won by 89 runs (D/L method)"
+            },
+            {
+                "vs": "South Africa",
+                "SelfScore": "308/7",
+                "OppScore": "(50 ov, T:309) 259/9",
+                "Result": "Pakistan won by 49 runs"
+            },
+            {
+                "vs": "New Zealand",
+                "SelfScore": "(49.1/50 ov, T:238) 241/4",
+                "OppScore": "237/6",
+                "Result": "Pakistan won by 6 wickets (with 5 balls remaining)"
+            },
+            {
+                "vs": "Afghanistan",
+                "SelfScore": "(49.4/50 ov, T:228) 230/7",
+                "OppScore": "227/9",
+                "Result": "Pakistan won by 3 wickets (with 2 balls remaining)"
+            },
+            {
+                "vs": "Bangladesh",
+                "SelfScore": "315/9",
+                "OppScore": "(44.1/50 ov, T:316) 221",
+                "Result": "Pakistan won by 94 runs"
+            }
+        ]
+    },
+    {
+        "name": "West Indies",
+        "matches": [
+            {
+                "vs": "Pakistan",
+                "SelfScore": "(13.4/50 ov, T:106) 108/3",
+                "OppScore": "105",
+                "Result": "West Indies won by 7 wickets (with 218 balls remaining)"
+            },
+            {
+                "vs": "Australia",
+                "SelfScore": "(50 ov, T:289) 273/9",
+                "OppScore": "288",
+                "Result": "Australia won by 15 runs"
+            },
+            {
+                "vs": "South Africa",
+                "SelfScore": "",
+                "OppScore": "(7.3/50 ov) 29/2",
+                "Result": "No result"
+            },
+            {
+                "vs": "England",
+                "SelfScore": "212",
+                "OppScore": "(33.1/50 ov, T:213) 213/2",
+                "Result": "England won by 8 wickets (with 101 balls remaining)"
+            },
+            {
+                "vs": "Bangladesh",
+                "SelfScore": "321/8",
+                "OppScore": "(41.3/50 ov, T:322) 322/3",
+                "Result": "Bangladesh won by 7 wickets (with 51 balls remaining)"
+            },
+            {
+                "vs": "New Zealand",
+                "SelfScore": "(49/50 ov, T:292) 286",
+                "OppScore": "291/8",
+                "Result": "New Zealand won by 5 runs"
+            },
+            {
+                "vs": "India",
+                "SelfScore": "(34.2/50 ov, T:269) 143",
+                "OppScore": "268/7",
+                "Result": "India won by 125 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "SelfScore": "(50 ov, T:339) 315/9",
+                "OppScore": "338/6",
+                "Result": "Sri Lanka won by 23 runs"
+            },
+            {
+                "vs": "Afghanistan",
+                "SelfScore": "311/6",
+                "OppScore": "(50 ov, T:312) 288",
+                "Result": "West Indies won by 23 runs"
+            }
+        ]
+    },
+    {
+        "name": "Sri Lanka",
+        "matches": [
+            {
+                "vs": "New Zealand",
+                "SelfScore": "136",
+                "OppScore": "(16.1/50 ov, T:137) 137/0",
+                "Result": "New Zealand won by 10 wickets (with 203 balls remaining)"
+            },
+            {
+                "vs": "Afghanistan",
+                "SelfScore": "(36.5/41 ov) 201",
+                "OppScore": "(32.4/41 ov, T:187) 152",
+                "Result": "Sri Lanka won by 34 runs (D/L method)"
+            },
+            {
+                "vs": "Pakistan",
+                "SelfScore": "",
+                "OppScore": "",
+                "Result": "Match abandoned without a ball bowled"
+            },
+            {
+                "vs": "Bangladesh",
+                "SelfScore": "",
+                "OppScore": "",
+                "Result": "Match abandoned without a ball bowled"
+            },
+            {
+                "vs": "Australia",
+                "SelfScore": "(45.5/50 ov, T:335) 247",
+                "OppScore": "334/7",
+                "Result": "Australia won by 87 runs"
+            },
+            {
+                "vs": "England",
+                "SelfScore": "232/9",
+                "OppScore": "(47/50 ov, T:233) 212",
+                "Result": "Sri Lanka won by 20 runs"
+            },
+            {
+                "vs": "South Africa",
+                "SelfScore": "203",
+                "OppScore": "(37.2/50 ov, T:204) 206/1",
+                "Result": "South Africa won by 9 wickets (with 76 balls remaining)"
+            },
+            {
+                "vs": "West Indies",
+                "SelfScore": "338/6",
+                "OppScore": "(50 ov, T:339) 315/9",
+                "Result": "Sri Lanka won by 23 runs"
+            },
+            {
+                "vs": "India",
+                "SelfScore": "264/7",
+                "OppScore": "(43.3/50 ov, T:265) 265/3",
+                "Result": "India won by 7 wickets (with 39 balls remaining)"
+            }
+        ]
+    },
+    {
+        "name": "New Zealand",
+        "matches": [
+            {
+                "vs": "Sri Lanka",
+                "SelfScore": "(16.1/50 ov, T:137) 137/0",
+                "OppScore": "136",
+                "Result": "New Zealand won by 10 wickets (with 203 balls remaining)"
+            },
+            {
+                "vs": "Bangladesh",
+                "SelfScore": "(47.1/50 ov, T:245) 248/8",
+                "OppScore": "244",
+                "Result": "New Zealand won by 2 wickets (with 17 balls remaining)"
+            },
+            {
+                "vs": "Afghanistan",
+                "SelfScore": "(32.1/50 ov, T:173) 173/3",
+                "OppScore": "172",
+                "Result": "New Zealand won by 7 wickets (with 107 balls remaining)"
+            },
+            {
+                "vs": "India",
+                "SelfScore": "",
+                "OppScore": "",
+                "Result": "Match abandoned without a ball bowled"
+            },
+            {
+                "vs": "South Africa",
+                "SelfScore": "(48.3/49 ov, T:242) 245/6",
+                "OppScore": "(49/49 ov) 241/6",
+                "Result": "New Zealand won by 4 wickets (with 3 balls remaining)"
+            },
+            {
+                "vs": "West Indies",
+                "SelfScore": "291/8",
+                "OppScore": "(49/50 ov, T:292) 286",
+                "Result": "New Zealand won by 5 runs"
+            },
+            {
+                "vs": "Pakistan",
+                "SelfScore": "237/6",
+                "OppScore": "(49.1/50 ov, T:238) 241/4",
+                "Result": "Pakistan won by 6 wickets (with 5 balls remaining)"
+            },
+            {
+                "vs": "Australia",
+                "SelfScore": "(43.4/50 ov, T:244) 157",
+                "OppScore": "243/9",
+                "Result": "Australia won by 86 runs"
+            },
+            {
+                "vs": "England",
+                "SelfScore": "(45/50 ov, T:306) 186",
+                "OppScore": "305/8",
+                "Result": "England won by 119 runs"
+            },
+            {
+                "vs": "India",
+                "SelfScore": "239/8",
+                "OppScore": "(49.3/50 ov, T:240) 221",
+                "Result": "New Zealand won by 18 runs"
+            },
+            {
+                "vs": "England",
+                "SelfScore": "241/8",
+                "OppScore": "(50 ov, T:242) 241",
+                "Result": "Match tied"
+            }
+        ]
+    },
+    {
+        "name": "Afghanistan",
+        "matches": [
+            {
+                "vs": "Australia",
+                "SelfScore": "207",
+                "OppScore": "(34.5/50 ov, T:208) 209/3",
+                "Result": "Australia won by 7 wickets (with 91 balls remaining)"
+            },
+            {
+                "vs": "Sri Lanka",
+                "SelfScore": "(32.4/41 ov, T:187) 152",
+                "OppScore": "(36.5/41 ov) 201",
+                "Result": "Sri Lanka won by 34 runs (D/L method)"
+            },
+            {
+                "vs": "New Zealand",
+                "SelfScore": "172",
+                "OppScore": "(32.1/50 ov, T:173) 173/3",
+                "Result": "New Zealand won by 7 wickets (with 107 balls remaining)"
+            },
+            {
+                "vs": "South Africa",
+                "SelfScore": "(34.1/48 ov) 125",
+                "OppScore": "(28.4/48 ov, T:127) 131/1",
+                "Result": "South Africa won by 9 wickets (with 116 balls remaining) (D/L method)"
+            },
+            {
+                "vs": "England",
+                "SelfScore": "(50 ov, T:398) 247/8",
+                "OppScore": "397/6",
+                "Result": "England won by 150 runs"
+            },
+            {
+                "vs": "India",
+                "SelfScore": "(49.5/50 ov, T:225) 213",
+                "OppScore": "224/8",
+                "Result": "India won by 11 runs"
+            },
+            {
+                "vs": "Bangladesh",
+                "SelfScore": "(47/50 ov, T:263) 200",
+                "OppScore": "262/7",
+                "Result": "Bangladesh won by 62 runs"
+            },
+            {
+                "vs": "Pakistan",
+                "SelfScore": "227/9",
+                "OppScore": "(49.4/50 ov, T:228) 230/7",
+                "Result": "Pakistan won by 3 wickets (with 2 balls remaining)"
+            },
+            {
+                "vs": "West Indies",
+                "SelfScore": "(50 ov, T:312) 288",
+                "OppScore": "311/6",
+                "Result": "West Indies won by 23 runs"
+            }
+        ]
+    },
+    {
+        "name": "Australia",
+        "matches": [
+            {
+                "vs": "Afghanistan",
+                "SelfScore": "(34.5/50 ov, T:208) 209/3",
+                "OppScore": "207",
+                "Result": "Australia won by 7 wickets (with 91 balls remaining)"
+            },
+            {
+                "vs": "West Indies",
+                "SelfScore": "288",
+                "OppScore": "(50 ov, T:289) 273/9",
+                "Result": "Australia won by 15 runs"
+            },
+            {
+                "vs": "India",
+                "SelfScore": "(50 ov, T:353) 316",
+                "OppScore": "352/5",
+                "Result": "India won by 36 runs"
+            },
+            {
+                "vs": "Pakistan",
+                "SelfScore": "307",
+                "OppScore": "(45.4/50 ov, T:308) 266",
+                "Result": "Australia won by 41 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "SelfScore": "334/7",
+                "OppScore": "(45.5/50 ov, T:335) 247",
+                "Result": "Australia won by 87 runs"
+            },
+            {
+                "vs": "Bangladesh",
+                "SelfScore": "381/5",
+                "OppScore": "(50 ov, T:382) 333/8",
+                "Result": "Australia won by 48 runs"
+            },
+            {
+                "vs": "England",
+                "SelfScore": "285/7",
+                "OppScore": "(44.4/50 ov, T:286) 221",
+                "Result": "Australia won by 64 runs"
+            },
+            {
+                "vs": "New Zealand",
+                "SelfScore": "243/9",
+                "OppScore": "(43.4/50 ov, T:244) 157",
+                "Result": "Australia won by 86 runs"
+            },
+            {
+                "vs": "South Africa",
+                "SelfScore": "(49.5/50 ov, T:326) 315",
+                "OppScore": "325/6",
+                "Result": "South Africa won by 10 runs"
+            },
+            {
+                "vs": "England",
+                "SelfScore": "223",
+                "OppScore": "(32.1/50 ov, T:224) 226/2",
+                "Result": "England won by 8 wickets (with 107 balls remaining)"
+            }
+        ]
+    },
+    {
+        "name": "Bangladesh",
+        "matches": [
+            {
+                "vs": "South Africa",
+                "SelfScore": "330/6",
+                "OppScore": "(50 ov, T:331) 309/8",
+                "Result": "Bangladesh won by 21 runs"
+            },
+            {
+                "vs": "New Zealand",
+                "SelfScore": "244",
+                "OppScore": "(47.1/50 ov, T:245) 248/8",
+                "Result": "New Zealand won by 2 wickets (with 17 balls remaining)"
+            },
+            {
+                "vs": "England",
+                "SelfScore": "(48.5/50 ov, T:387) 280",
+                "OppScore": "386/6",
+                "Result": "England won by 106 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "SelfScore": "",
+                "OppScore": "",
+                "Result": "Match abandoned without a ball bowled"
+            },
+            {
+                "vs": "West Indies",
+                "SelfScore": "(41.3/50 ov, T:322) 322/3",
+                "OppScore": "321/8",
+                "Result": "Bangladesh won by 7 wickets (with 51 balls remaining)"
+            },
+            {
+                "vs": "Australia",
+                "SelfScore": "(50 ov, T:382) 333/8",
+                "OppScore": "381/5",
+                "Result": "Australia won by 48 runs"
+            },
+            {
+                "vs": "Afghanistan",
+                "SelfScore": "262/7",
+                "OppScore": "(47/50 ov, T:263) 200",
+                "Result": "Bangladesh won by 62 runs"
+            },
+            {
+                "vs": "India",
+                "SelfScore": "(48/50 ov, T:315) 286",
+                "OppScore": "314/9",
+                "Result": "India won by 28 runs"
+            },
+            {
+                "vs": "Pakistan",
+                "SelfScore": "(44.1/50 ov, T:316) 221",
+                "OppScore": "315/9",
+                "Result": "Pakistan won by 94 runs"
+            }
+        ]
+    },
+    {
+        "name": "India",
+        "matches": [
+            {
+                "vs": "South Africa",
+                "SelfScore": "(47.3/50 ov, T:228) 230/4",
+                "OppScore": "227/9",
+                "Result": "India won by 6 wickets (with 15 balls remaining)"
+            },
+            {
+                "vs": "Australia",
+                "SelfScore": "352/5",
+                "OppScore": "(50 ov, T:353) 316",
+                "Result": "India won by 36 runs"
+            },
+            {
+                "vs": "New Zealand",
+                "SelfScore": "",
+                "OppScore": "",
+                "Result": "Match abandoned without a ball bowled"
+            },
+            {
+                "vs": "Pakistan",
+                "SelfScore": "336/5",
+                "OppScore": "(40/40 ov, T:302) 212/6",
+                "Result": "India won by 89 runs (D/L method)"
+            },
+            {
+                "vs": "Afghanistan",
+                "SelfScore": "224/8",
+                "OppScore": "(49.5/50 ov, T:225) 213",
+                "Result": "India won by 11 runs"
+            },
+            {
+                "vs": "West Indies",
+                "SelfScore": "268/7",
+                "OppScore": "(34.2/50 ov, T:269) 143",
+                "Result": "India won by 125 runs"
+            },
+            {
+                "vs": "England",
+                "SelfScore": "(50 ov, T:338) 306/5",
+                "OppScore": "337/7",
+                "Result": "England won by 31 runs"
+            },
+            {
+                "vs": "Bangladesh",
+                "SelfScore": "314/9",
+                "OppScore": "(48/50 ov, T:315) 286",
+                "Result": "India won by 28 runs"
+            },
+            {
+                "vs": "Sri Lanka",
+                "SelfScore": "(43.3/50 ov, T:265) 265/3",
+                "OppScore": "264/7",
+                "Result": "India won by 7 wickets (with 39 balls remaining)"
+            },
+            {
+                "vs": "New Zealand",
+                "SelfScore": "(49.3/50 ov, T:240) 221",
+                "OppScore": "239/8",
+                "Result": "New Zealand won by 18 runs"
+            }
+        ]
+    }
+]
